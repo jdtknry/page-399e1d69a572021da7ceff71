@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "69bf512d66c8f745cd103e39",
+  "owner": "jdtknry",
+  "repo": "page-399e1d69a572021da7ceff71",
+  "title": "飞数(Flyint)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "399e1d69a572021da7ceff71",
+      "a": "飞数(Flyint)",
+      "b": "",
+      "entity": "飞数(Flyint)",
+      "brand": "飞数(Flyint)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9d08dc0257790690adaa4a1026139a8307def86481a316d1d7fcbdcb4b70a739",
+      "content": {
+        "keyword1": "飞数(Flyint)",
+        "keyword2": "",
+        "primary_entity": "飞数(Flyint)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞数(Flyint)官方网站提供机场订阅与VPN网络加速服务，支持多平台客户端下载，覆盖流媒体解锁、游戏专线与稳定上网，立即访问官网了解套餐与配置流程。",
+          "AI_DESCRIPTION": "飞数(Flyint)官方网站提供机场订阅与VPN网络加速服务，支持多平台客户端下载，覆盖流媒体解锁、游戏专线与稳定上网，立即访问官网了解套餐与配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:system-ui,-apple-system,sans-serif;line-height:1.7;color:#2a2a2a;background:#FDF8F5;max-width:100%;overflow-x:hidden}header{background:#fff;border-bottom:1px solid #f0e6e0;padding:1rem}nav{display:flex;flex-wrap:wrap;gap:.8rem;justify-content:center}nav a{color:#C45C26;text-decoration:none;font-weight:600;padding:.3rem .6rem}main{padding:1rem;max-width:800px;margin:0 auto}h1{font-size:2.4rem;color:#C23B22;text-align:center;margin:4rem 0 2.5rem;padding:1.5rem 1rem;letter-spacing:.05em;line-height:1.3}h2{font-size:1.5rem;color:#B85C38;margin:2.5rem 0 1rem;padding-bottom:.4rem;border-bottom:2px solid #FFCDB2}h3{font-size:1.2rem;color:#8B4513;margin:1.5rem 0 .6rem}p,li{margin-bottom:.8rem}ul{padding-left:1.4rem}.lead{text-align:center;font-size:1.05rem;color:#5a4034;margin-bottom:1.5rem}.plans{display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0}.plan{flex:1 1 240px;background:#fff;border:1px solid #FFDAB9;border-radius:8px;padding:1.2rem}.plan.featured{border:2px solid #E07050;background:#FFF5F0}.price{font-size:1.4rem;color:#C23B22;font-weight:700}.annual{font-size:.9rem;color:#666}.cta{display:inline-block;background:#E07050;color:#fff;padding:.6rem 1.2rem;border-radius:4px;text-decoration:none;margin-top:.8rem;font-weight:600}details{background:#fff;border:1px solid #FFE4D0;margin:.6rem 0;padding:.8rem 1rem;border-radius:6px}summary{font-weight:600;color:#C45C26;cursor:pointer}footer{background:#3D2B1F;color:#F5E6DC;padding:2rem 1rem;margin-top:3rem;font-size:.9rem}footer a{color:#FFB38A;text-decoration:none;margin-right:.8rem} .footer-sec{margin-bottom:1.2rem}@media(max-width:480px){h1{font-size:1.8rem;margin:2.5rem 0 1.5rem}.plan{flex:1 1 100%}}</style><header><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>飞数(Flyint)</h1><p class=\"lead\">专业机场订阅 · VPN 网络加速 · 官方客户端下载</p><section id=\"intro\"><h2>品牌简介</h2><p>飞数(Flyint)官方网站面向需要稳定跨境网络的用户，提供机场订阅与多端加速客户端指引。我们整合香港、日本、新加坡、美国等地线路，兼顾日常浏览、流媒体解锁与游戏加速，帮助您以清晰步骤完成订阅导入与连接。</p><p>本站为飞数官方网站入口，套餐说明、节点用途与客户端获取方式均以本页为准。服务强调可落地的配置流程，而不是空泛承诺。线路质量会随骨干网与晚高峰变化，实际体验因您本地运营商而异。</p></section><section id=\"plans\"><h2>套餐价格</h2><p>按月或按年开通均可。年付可锁定当期优惠。请根据设备数量与流量需求选择，开通后即可在客户端导入订阅。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看配置流程</a></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">查看配置流程</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看配置流程</a></article></div></section><section id=\"scenarios\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版与团队版侧重原生解锁节点，适合观看常见海外影视与音乐平台。基础版覆盖部分常用站点。请优先选择标注解锁的地区节点，并在客户端开启对应规则。</p><h3>游戏与低延迟需求</h3><p>对延迟敏感的用户可选用 IPLC 或游戏优化线路，常见于旗舰与团队套餐。先测本地到入口的质量，再固定一条稳定节点，避免频繁切换。</p><h3>远程办公与资料查阅</h3><p>跨境会议、网盘与文档协作需要长时间在线。建议预留流量余量，团队版适合多设备同时使用。保持客户端自动更新订阅，以免节点变更后中断。</p><h3>多设备家庭或小团队</h3><p>同一订阅可在电脑、手机与平板间分配在线名额。超出同时在线上限可能造成掉线，请按套餐设备数规划。</p></section><section id=\"guide\"><h2>客户端下载与配置流程</h2><p>飞数(Flyint)将配置拆成可执行的五步，方便首次使用的用户对照完成。全程不依赖复杂命令，主流图形客户端即可。</p><h3>第一步：选择并开通套餐</h3><p>根据流量、设备数与是否需要 IPLC、全量流媒体解锁，在基础版、旗舰版或团队版中选定。开通成功后，账户内会生成专属订阅地址。请复制保存，不要公开张贴。</p><h3>第二步：下载对应客户端</h3><p>Windows 可使用 Clash Verge 或 v2rayN；macOS 可使用 ClashX Meta 或 Surge；iOS 常用 Shadowrocket、Stash 或 Quantumult X；Android 推荐 Clash Meta for Android。请通过飞数官网下载说明获取正版来源，避免来路不明的安装包。</p><p><a class=\"cta\" href=\"#\">前往官网下载指引</a></p><h3>第三步：导入机场订阅</h3><p>打开客户端的配置或订阅页面，新建订阅并粘贴飞数提供的链接，命名后点击更新。成功后将出现节点列表。若更新失败，检查系统时间、网络权限与链接完整性。</p><h3>第四步：选择节点并连接</h3><p>浏览类可选香港或日本；流媒体选解锁节点；游戏优先 IPLC 或延迟更低的专线。开启系统代理或 TUN 模式后点击连接。首次连接请允许防火墙与 VPN 权限提示。</p><h3>第五步：日常维护</h3><p>建议开启定时更新订阅。更换套餐或流量重置后无需重装客户端，刷新即可。连接异常时先换节点，再检查本地 Wi-Fi 或运营商限制。旗舰版用户可走优先工单通道。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>飞数(Flyint)是什么服务？</summary><p>飞数是提供机场订阅与网络加速的官方平台，用户通过客户端导入订阅后选择节点上网。它覆盖多地区线路，并配套套餐内的流量与设备额度，适合需要稳定跨境访问的个人与小团队。</p></details><details><summary>如何进行官方客户端下载？</summary><p>在本页配置流程中查看各系统推荐软件名称，再按飞数官网下载说明获取安装包或商店购买指引。请勿使用来源不明的修改版，以免订阅泄露或无法更新节点。</p></details><details><summary>支持哪些设备与客户端？</summary><p>覆盖 Windows、macOS、iOS、Android、Linux 及部分路由器。常见 Clash 系、Shadowrocket、Quantumult X、Surge、v2rayN 均可导入同一订阅。同时在线台数以套餐为准。</p></details><details><summary>流量与设备超限会怎样？</summary><p>当月流量用尽后高速通道将暂停，直至下个计费周期重置。同时在线超出套餐上限可能导致新设备无法连接或已有会话不稳定，请升级套餐或减少并发设备。</p></details><details><summary>节点能否解锁常见流媒体？</summary><p>基础版提供部分平台解锁；旗舰版与团队版强调全节点原生解锁。线路会调整，若某节点失效，切换同地区其他解锁节点或更新订阅即可。</p></details><details><summary>游戏加速是否一定走 IPLC？</summary><p>IPLC 专线优化主要包含在旗舰版与团队版说明中。是否更适合取决于您所在网络到入口的质量。建议固定一条延迟与丢包都可接受的节点，而不是频繁测速切换。</p></details><details><summary>订阅链接是否需要保密？</summary><p>需要。订阅地址等同于您的接入凭证，泄露后他人可能占用流量与设备名额。只在自己的客户端中粘贴，更换设备时重新导入即可。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-sec\"><strong>网站地图</strong><p><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a></p></div><div class=\"footer-sec\"><strong>广告合作</strong><p>飞数(Flyint)接受与网络工具、教程站点的文字合作展示，具体以官方渠道沟通为准。</p></div><div class=\"footer-sec\"><strong>友情链接</strong><p><a href=\"#\">客户端教程导航</a><a href=\"#\">流媒体资讯站</a><a href=\"#\">游戏网络社区</a><a href=\"#\">路由配置笔记</a></p></div><p>飞数(Flyint)官方网站 · 机场订阅与 VPN 加速器服务说明</p></footer>",
+          "hash": "ad74f3f058d625d97bd0754efaf1fada00fc3be7bf14f707c0fc4740a1e7f768",
+          "seo": {
+            "title": "飞数(Flyint)官网 | 机场订阅 VPN 网络加速与客户端下载",
+            "keywords": "飞数,Flyint,飞数机场,飞数VPN,VPN,梯子,网络加速,加速器,客户端下载,官网下载,IPLC专线,流媒体解锁",
+            "description": "飞数(Flyint)官方网站提供机场订阅与VPN网络加速服务，支持多平台客户端下载，覆盖流媒体解锁、游戏专线与稳定上网，立即访问官网了解套餐与配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "trans-aeronet.cn",
+    "host": "p-ec00bc420a.trans-aeronet.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "trans-aeronet.cn",
+      "url": "https://trans-aeronet.cn/",
+      "label": "WgetCloud",
+      "apex": "trans-aeronet.cn",
+      "kind": null,
+      "identity": "fkugcv/page-fd498a75cd35e76cbe4688d7"
+    },
+    {
+      "host": "lingchuanrc.cn",
+      "url": "https://lingchuanrc.cn/",
+      "label": "飞数(Flyint)",
+      "apex": "lingchuanrc.cn",
+      "kind": null,
+      "identity": "mkf8vh8/page-0d539cb4778860751bf5443e"
+    },
+    {
+      "host": "quanshanjob.cn",
+      "url": "https://quanshanjob.cn/",
+      "label": "飞数(Flyint)",
+      "apex": "quanshanjob.cn",
+      "kind": null,
+      "identity": "cyhttgr/page-f6e0d70fa3c8e74cc11ad43e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a61324e55e4d4fcdeace94c72d45abd3bb5bb61263251788e10ce15b7ca71b06",
+    "sitemap.xml": "3ab810a588e88433659a5cac46733b91ffcd6a4cfe54c73bc2ac313e712fbde8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "19d6dae22a94ad01e7530c87c96d71c16c1b34420a9314948991e3dc243921c7",
+    "robots.txt": "00ae96bc5ecf5cc3a2605d2f235a2655ffa8340b3dfc1ad4bf21c1f4f79d591c",
+    "6579ee94eaf2f8ec9f5de4e37c45faf3.txt": "fb7f59696bf2b428dd44f3610a4ce3e18f1ba17114d05761a1c8ff3199a6866a"
+  },
+  "revision": "72a0f06b4f79671c9186d6ed70ea95aeb7db894eb237a91d71307a885205a681"
+}
